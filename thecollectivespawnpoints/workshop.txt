@@ -1,0 +1,12 @@
+version=1
+id=2821566128
+title=Improved Light Bulb Longevity
+description=This mod allows you to set the max condition of lightbulbs.
+description=
+description=By default, all lightbulbs start at 100% but this should let you set it to 200% or higher.
+description=
+description=This mod MIGHT not change the initial value of light bulbs already installed, but looted ones should be at the correct value.
+description=
+description=Let me know in the comments if it works for you.
+tags=Build 41;Balance;Building;Items;Multiplayer
+visibility=public
